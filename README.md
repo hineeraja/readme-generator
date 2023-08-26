@@ -9,7 +9,4 @@ A command-line application that dynamically generates a professional README.md f
 - Node.js
 - JavaScript
 
-## Installation
-
-To install the necessary dependencies, run the following command:
 
