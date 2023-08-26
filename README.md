@@ -1,3 +1,6 @@
 # Professional README Generator Starter Code
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+readme generater
+
+This is a readme generator that used to generate readme using inqirer 8.2.4
+
