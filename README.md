@@ -1,6 +1,15 @@
-# Professional README Generator Starter Code
+# Readme Generator
 
-readme generater
+A command-line application that dynamically generates a professional README.md from a user's input using Node.js.
 
-This is a readme generator that used to generate readme using inqirer 8.2.4
+
+
+## Technologies Used
+
+- Node.js
+- JavaScript
+
+## Installation
+
+To install the necessary dependencies, run the following command:
 
