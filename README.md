@@ -10,3 +10,5 @@ A command-line application that dynamically generates a professional README.md f
 - JavaScript
 
 
+## git hub URL
+https://github.com/hineeraja/readme-generator
