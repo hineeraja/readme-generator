@@ -27,7 +27,7 @@ const questions = [
     message: "Project URL?",
   },
   {
-    type: "checkbox",
+    type: "list",
     name: "license",
     message: "Select a license.",
     choices: ["MIT", "APACHE2.0", "Boost1.0", "MPL2.0", "BSD2", "BSD3", "none"],
@@ -56,12 +56,6 @@ const questions = [
     type: "input",
     name: "email",
     message: "Your email?",
-  },
-  {
-    type: "input",
-    name: "contributors",
-    message: "Contributors' GitHub?",
-    default: "",
   },
   {
     type: "input",
